@@ -1,0 +1,31 @@
+commit 498120375c4a13957f4aabaddb2f1b01553079b5 (HEAD -> main, origin/main, origin/HEAD)
+Author: JBavaji <46149277+JBavaji@users.noreply.github.com>
+Date:   Sat Jun 27 13:47:29 2026 +0530
+
+    Add git-branches.md with branch information
+    
+    Document current Git branches and status.
+
+commit fe09dc532038b4a2e01366b9e7b231b331c51b43
+Author: JBavaji <46149277+JBavaji@users.noreply.github.com>
+Date:   Sat Jun 27 13:42:17 2026 +0530
+
+    Rename fork-repo to fork-repo.md
+
+commit 450b00c15d3731f45e53e6feefe998ca13132510
+Author: JBavaji <46149277+JBavaji@users.noreply.github.com>
+Date:   Sat Jun 27 13:27:11 2026 +0530
+
+    Add forked repository information and quick start guide
+    
+    Added documentation for the forked repository including cloning instructions and upstream configuration.
+
+commit ad95b0abe521c61effc692e83d5babd5fbf25910 (merge_branches)
+Author: ritikaj23 <128594913+ritikaj23@users.noreply.github.com>
+Date:   Thu Sep 4 15:32:47 2025 +0530
+
+    Create close_pr.yml
+    
+    Updated as per old repo
+
+commit 13af26282502789ba67b5038a822688b5b206644
